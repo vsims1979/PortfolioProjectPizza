@@ -1,0 +1,18 @@
+staff_id,first_name,last_name,position,hourly_rate
+st0001,Mindy,Slone,Chef,17.25
+st0002,Brian,Harrison,Chef,17.25
+st0003,Fred,Smith,Chef,17.25
+st0004,Sherrie,Dormer,Head Chef,21.5
+st0005,Lucy,Baker,Head Chef,21.5
+st0006,Mark,Forsyth,Chef,17.25
+st0007,Don,Bluth,Chef,17.25
+st0008,Iven,Vastave,Head Chef,21.5
+st0009,Matilda,Hargrave,Delivery Driver,14.5
+st0010,Johan,Lancet,Delivery Driver,14.5
+st0011,Cas,DeVine,Delivery Driver,14.5
+st0012,Madigan,McTain,Delivery Driver,14.5
+st0013,Az,Portolo,Delivery Driver,14.5
+st0014,Soren,Bradford,Delivery Driver,14.5
+st0015,Jacob,Robin,Delivery Driver,14.5
+st0016,Shelby,Tunsky,Delivery Driver,14.5
+st0017,Nathanial,Green,Delivery Driver,14.5
