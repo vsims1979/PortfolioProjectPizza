@@ -1,0 +1,38 @@
+Item_id,sku,item_name,item_cat,item_size,item_price
+001,PIZZ-MARG-R,Margherita,Pizza,Regular,12
+002,PIZZ-MARG-L,Margherita,Pizza,Large,14
+003,PIZZ-ORTO-R,Ortolana,Pizza,Regular,16
+004,PIZZ-ORTO-L,Ortolana,Pizza,Large,19
+005,PIZZ-PUGL-R,Pugliese,Pizza,Regular,15
+006,PIZZ-PUGL-L,Pugliese,Pizza,Large,18
+007,PIZZ-PARM-R,Parmigiana,Pizza,Regular,16
+008,PIZZ-PARM-L,Parmigiana,Pizza,Large,19
+009,PIZZ-NAPO-R,Napolitana,Pizza,Regular,16
+010,PIZZ-NAPO-L,Napolitana,Pizza,Large,18
+011,PIZZ-PEPP-R,Pepperoni,Pizza,Regular,15
+012,PIZZ-PEPP-L,Pepperoni,Pizza,Large,17
+013,PIZZ-VEGI-R,Vegetariana,Pizza,Regular,17
+014,PIZZ-VEGI-L,Vegetariana,Pizza,Large,20
+015,PIZZ-HAWA-R,Hawaiian,Pizza,Regular,15
+016,PIZZ-HAWA-L,Hawaiian,Pizza,Large,17
+017,SIDW-GARL-R,Garlic Bread,Side,Regular,5
+018,SIDW-CHIC-R,Chicken Wings,Side,Regular,7
+019,SIDW-CHES-R,Cheesy Bread,Side,Regular,5
+020,SIDW-CAES-R,Caesar Salad,Side,Regular,7
+021,DESS-BROW-R,Chocolate Brownie,Dessert,Regular,5
+022,DESS-CANN-R,Cannoli,Dessert,Regular,7
+023,DESS-GEL-STRA-R,Gelato-Strawberry,Dessert,Regular,7
+024,DESS-GEL-RASP-R,Gelato-Raspberry,Dessert,Regular,7
+025,DESS-GEL-MANG-R,Gelato-Mango,Dessert,Regular,7
+026,DESS-GEL-LEMO-R,Gelato-Lemon,Dessert,Regular,7
+027,DESS-ZEPP-R,Zeppoles,Dessert,Regular,8
+028,BEVA-CC-1.5,Coca Cola,Beverage,1.5L,6
+029,BEVA-CC-16,Coca Cola,Beverage,16oz,3
+030,BEVA-7UP-1.5,7 Up,Beverage,1.5L,6
+031,BEVA-7UP-16,7 Up,Beverage,16oz,3
+032,BEVA-SWEET-1.5,Sweet Tea,Beverage,1.5L,6
+033,BEVA-SWEET-16,Sweet Tea,Beverage,16oz,3
+034,BEVA-CREAM-1.5,Cream Soda,Beverage,1.5L,7
+035,BEVA-CREAM-16,Cream Soda,Beverage,16oz,4
+036,BEVA-WATER-1.5,Water,Beverage,1.5L,4
+037,BEVA-WATER-16,Water,Beverage,16oz,2

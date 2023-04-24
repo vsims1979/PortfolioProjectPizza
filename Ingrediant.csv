@@ -1,0 +1,29 @@
+ing_id,ing_name,ing_weight,ing_meas,ing_price
+ING01,Pizza dough ball (8pk),2000,grams,4.22
+ING02,Tomato sauce,4500,grams,3.89
+ING03,Mozzarella cheese,2500,grams,14.45
+ING04,Basil ,500,grams,5.99
+ING05,Zucchini,3500,grams,37.64
+ING06,Eggplant,1000,grams,6.49
+ING07,Olive Oil,1000,grams,1.9
+ING08,Onion,1000,grams,18.75
+ING09,Grand Padano Cheese,2500,grams,27.64
+ING10,Oregano(dried),500,grams,3.99
+ING11,Pepperoni,2500,grams,10.99
+ING12,Peppers,1000,grams,4.16
+ING13,Pineapple,5000,grams,24.18
+ING14,Ham,5000,grams,8.98
+ING15,Garlic and parsley butter,3000,grams,7.66
+ING16,Chicken wings,6000,grams,28.77
+ING17,Wing sauce,2500,grams,32.45
+ING18,Rotisserie chicken pieces,5000,grams,6.23
+ING19,Croutons,1250,grams,52.1
+ING20,Romain lettuce,7500,grams,69.83
+ING21,Caesar dressing,3800,grams,34.45
+ING22,Gelato-Strawberry,4500,milliliters,15.45
+ING23,Gelato-Raspberry,4500,milliliters,15.45
+ING24,Gelato-Mango,4500,milliliters,15.45
+ING25,Gelato-Lemon,4500,milliliters,15.45
+ING26,Chocolate brownie,2500,grams,4.45
+ING27,Cannoli,1200,grams,1.15
+ING28,Zeppoles,2500,grams,7.12
