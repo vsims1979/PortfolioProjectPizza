@@ -15,7 +15,7 @@ Bob’s
 * Customer name
 * Delivery address
 
-Ours
+Mine
    * Row ID
    * Order ID
    * Item category
