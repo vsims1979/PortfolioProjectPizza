@@ -1,0 +1,41 @@
+row_id,order_id,created_at,item_name,item_cat,item_size,item_price,quantity,delivery,cust_firstname,cust_lastname,delivery_address1,delivery_address2,delivery_city,delivery_zip
+1,ORD_001,4/20/2023 12:30,Pugliese,Pizza,Large,18,2,Y,Marsha,DeVore,695 Lazy Oak,,New Lenox village,91911
+2,ORD_001,4/20/2023 12:30,Garlic Bread,Side,Regular,5,2,Y,Marsha,DeVore,695 Lazy Oak,,New Lenox village,91911
+3,ORD_001,4/20/2023 12:30,Cheesy Bread,Side,Regular,5,2,Y,Marsha,DeVore,695 Lazy Oak,,New Lenox village,91911
+4,ORD_001,4/20/2023 12:30,Brownies,Dessert,Regular,5,2,Y,Marsha,DeVore,695 Lazy Oak,,New Lenox village,91911
+5,ORD_001,4/20/2023 12:30,Sweet Tea,Beverage,1.5L,6,4,Y,Marsha,DeVore,695 Lazy Oak,,New Lenox village,91911
+6,ORD_002,4/21/2023 16:15,Ortolana,Pizza,Large,19,1,N,Jacob,Martin,733 Cozy Lock Quay,,Clearview Acres,94587
+7,ORD_002,4/21/2023 16:15,Margherita,Pizza,Regular,12,2,N,Jacob,Martin,733 Cozy Lock Quay,,Clearview Acres,94587
+8,ORD_002,4/21/2023 16:15,Cheesy Bread,Side,Regular,5,4,N,Jacob,Martin,733 Cozy Lock Quay,,Clearview Acres,94587
+9,ORD_002,4/21/2023 16:15,Caesar Salad,Side,Regular,7,2,N,Jacob,Martin,733 Cozy Lock Quay,,Clearview Acres,94587
+10,ORD_002,4/21/2023 16:15,Coca Cola,Beverage,1.5L,6,1,N,Jacob,Martin,733 Cozy Lock Quay,,Clearview Acres,94587
+11,ORD_002,4/21/2023 16:15,7 Up,Beverage,1.5L,6,1,N,Jacob,Martin,733 Cozy Lock Quay,,Clearview Acres,94587
+12,ORD_002,4/21/2023 16:15,Sweet Tea,Beverage,16oz,3,2,N,Jacob,Martin,733 Cozy Lock Quay,,Clearview Acres,94587
+13,ORD_003,4/21/2023 19:45,Margherita,Pizza,Large,14,2,Y,Mary,Sinta,707 Round Goose Parkway,,Clearbrook,92704
+14,ORD_003,4/21/2023 19:45,Margherita,Pizza,Large,14,2,Y,Mary,Sinta,707 Round Goose Parkway,,Clearbrook,92704
+15,ORD_003,4/21/2023 19:45,Ortolana,Pizza,Large,19,1,Y,Mary,Sinta,707 Round Goose Parkway,,Clearbrook,92704
+16,ORD_003,4/21/2023 19:45,Napolitana,Pizza,Regular,16,1,Y,Mary,Sinta,707 Round Goose Parkway,,Clearbrook,92704
+17,ORD_003,4/21/2023 19:45,Hawaiian,Pizza,Regular,15,2,Y,Mary,Sinta,707 Round Goose Parkway,,Clearbrook,92704
+18,ORD_003,4/21/2023 19:45,Garlic Bread,Side,Regular,5,2,Y,Mary,Sinta,707 Round Goose Parkway,,Clearbrook,92704
+19,ORD_004,4/22/2023 14:35,Vegetariana,Pizza,Regular,17,1,Y,Armond,Forsyth,368 Misty Creek,,Robbinsdale,92677
+20,ORD_004,4/22/2023 14:35,Pepperoni,Pizza,Large,17,1,Y,Armond,Forsyth,368 Misty Creek,,Robbinsdale,92677
+21,ORD_004,4/22/2023 14:35,Hawaiian,Pizza,Regular,15,1,Y,Armond,Forsyth,368 Misty Creek,,Robbinsdale,92677
+22,ORD_004,4/22/2023 14:35,Garlic Bread,Side,Regular,5,2,Y,Armond,Forsyth,368 Misty Creek,,Robbinsdale,92677
+23,ORD_004,4/22/2023 14:35,Caesar Salad,Side,Regular,7,4,Y,Armond,Forsyth,368 Misty Creek,,Robbinsdale,92677
+24,ORD_004,4/22/2023 14:35,Chicken Wings,Side,Regular,7,4,Y,Armond,Forsyth,368 Misty Creek,,Robbinsdale,92677
+25,ORD_004,4/22/2023 14:35,Zeppoles,Dessert,Regular,8,4,Y,Armond,Forsyth,368 Misty Creek,,Robbinsdale,92677
+26,ORD_004,4/23/2023 14:35,Coca Cola,Beverage,1.5L,6,1,Y,Armond,Forsyth,368 Misty Creek,,Robbinsdale,92677
+27,ORD_005,4/23/2023 18:35,Parmigiana,Pizza,Large,19,2,N,Chloe,Baker,989 Lake Parade,,Littlerock,93274
+28,ORD_005,4/23/2023 18:35,Cheesy Bread,Side,Regular,5,2,N,Chloe,Baker,989 Lake Parade,,Littlerock,93274
+29,ORD_005,4/23/2023 18:35,Chocolate Brownie,Dessert,Regular,5,4,N,Chloe,Baker,989 Lake Parade,,Littlerock,93274
+30,ORD_006,4/23/2023 19:35,Pepperoni,Pizza,Regular,15,3,Y,Ivan,Vlasov,447 NE Rabbit Edge,,Laguna Woods,90813
+31,ORD_006,4/24/2023 19:35,Hawaiian,Pizza,Regular,15,4,Y,Ivan,Vlasov,447 NE Rabbit Edge,,Laguna Woods,90813
+32,ORD_006,4/25/2023 19:35,Garlic Bread,Side,Regular,5,2,Y,Ivan,Vlasov,447 NE Rabbit Edge,,Laguna Woods,90813
+33,ORD_006,4/26/2023 19:45,Sweet Tea,Beverage,16oz,3,2,Y,Ivan,Vlasov,447 NE Rabbit Edge,,Laguna Woods,90813
+34,ORD_007,4/26/2023 19:45,Ortolana,Pizza,Large,19,2,N,Dave,DeBuke,318 Red Rest Plaza,,Plain village,94587
+35,ORD_007,4/26/2023 19:45,Pugliese,Pizza,Regular,15,3,N,Dave,DeBuke,318 Red Rest Plaza,,Plain village,94587
+36,ORD_007,4/26/2023 19:45,Garlic Bread,Side,Regular,5,2,N,Dave,DeBuke,318 Red Rest Plaza,,Plain village,94587
+37,ORD_007,4/26/2023 19:45,Gelato-Strawberry,Dessert,Regular,7,2,N,Dave,DeBuke,318 Red Rest Plaza,,Plain village,94587
+38,ORD_007,4/26/2023 19:45,Gelato-Raspberry,Dessert,Regular,7,2,N,Dave,DeBuke,318 Red Rest Plaza,,Plain village,94587
+39,ORD_008,4/27/2023 19:45,Parmigiana,Pizza,Regular,16,2,N,Joy,McIntyre,146 Well Haven,,Trail Creek,90003
+40,ORD_008,4/27/2023 19:45,Napolitana,Pizza,Regular,16,2,N,Joy,McIntyre,146 Well Haven,,Trail Creek,90003
